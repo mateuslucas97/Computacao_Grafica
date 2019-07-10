@@ -1,0 +1,4 @@
+O jogo pescaria ridicula consiste em  mover o barco com as teclas "a" e "d" paara pegar os peixes 
+que estao na tela com a tecla espaço. Pausando o jogo voce encontra uma breve historia do jogo
+e teclando "r" voce reseta. quando se captura um dos peixes é exibida uma mensagem em loop no terminal que 
+voce ganhou.
