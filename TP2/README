@@ -1,0 +1,7 @@
+Mateus Lucas e Luiz Fábio apresentam: OS REIS DO GADO
+para executar o programa basta abrir o terminal dentro da pasta e digitar "make run" 
+ para interagir com a animação:
+ tecla "3":muda para a camera global
+ tecla "2":muda para camera da vaca 1, depois tecla "c" muda para camera da vaca 2
+ tecla "l": muda a iluminação da cena
+ tecla "1": volta para a camera estática inicial
